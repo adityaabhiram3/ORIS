@@ -1,9 +1,7 @@
 <div style="text-align:center"><img src="https://github.com/adityaabhiram3/ORIS/blob/main/ORIS_logo.png" alt="MarvinEye" width="250" height="250"/></div>
 
-# MarvinEye
+#ORIS: On Road Intelli Sense
 
-Autonomous Guidance and Navigation System for Mars Rover Prototype
+High functional assist system for autonomous traversal 
 
-NOTE: DO NOT click on "Compare and Pull Requests" to the master branch.
-
-Publication Link: https://ieeexplore.ieee.org/document/9299051
+Results and Report: https://drive.google.com/drive/folders/1JCuEmK3tkEJlaL9fGDKFz_cVVlVgOpIL?usp=sharing
