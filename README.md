@@ -17,3 +17,4 @@ https://www.kaggle.com/michatreter/car-data
 https://www.kaggle.com/valentynsichkar/traffic-signs-dataset-in-yolo-format
 https://www.kaggle.com/valentynsichkar/traffic-signs-preprocess
 
+Publication Link: https://ieeexplore.ieee.org/document/9587889
